@@ -1,8 +1,5 @@
-Build a ML model for Breast Cancer Wisconsin (Diagnostic) Data set in jupyter notebook.
 
-
-Welcome to our repository! In this guide, we'll walk you through the process of setting up and remotely connecting your Git project with GitHub. Follow these steps to seamlessly manage your project, commit changes, and push updates to your GitHub repository.
-
+Welcome to our repository
 
 Step 1: Initialize Git Repository
 
