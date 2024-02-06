@@ -34,7 +34,7 @@ step 4: create python file git add kunal_krishan_sharma_model_v1.ipynb
 Step 5: Add GitHub Remote
 
 
-Add your GitHub repository as the remote origin:git remote add origin https://github.com/kunalkrishan19/AIDI_2004_Lab_2_100938687.git
+Add your GitHub repository as the remote origin:git remote add origin https://github.com/sanjay095/AI_Enterprise_Lab2/tree/master
 
 
 Step 6: Create and Switch Branch
